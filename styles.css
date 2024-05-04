@@ -4,7 +4,7 @@ body{
 }
 .header{
 	background-color:#011e29;color:white ;display:flex;align-items:center;justify-content:center;height:70px;font-size:1.5rem
-	
+	;text-align:center;
 }
 .latest-news-section{
 	
